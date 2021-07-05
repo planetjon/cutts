@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Symbol Map for CUTTS strings</comment>
+<entry key="CUTTS_ABOUT">CUTTS is a free timetable builder tailored for Carleton University
+designed and maintained by Jonathan Weatherhead, a Carleton Grad.
+All information is collected from Carleton Central and the Carleton Calendars.
+Suggestions, complaints, or a simple thanks - feel free to drop a line
+anytime at jweathe@gmail.com and don't forget to stay current at the
+official CUTTS website: http://planetjon.ca/cutts"</entry>
+<entry key="CUTTS_BUG_REPORT_FAILURE">Unable to deliver the bug report :(</entry>
+<entry key="CUTTS_TIMETABLE_EXPORT_FAILURE">Unable to export this semester :(</entry>
+<entry key="CUTTS_TIMETABLE_SAVE_FAILURE">Unable to save this timetable :(</entry>
+<entry key="CUTTS_TIMETABLE_LOAD_FAILURE">Unable to load this timetable :(</entry>
+<entry key="CUTTS_REGISTRATION_CONFLICT">Unable to register "%s" due to a scheduling conflict :(</entry>
+<entry key="CUTTS_INVALID_COURSE_CODE">Invalid course code!
+Search should have the form 'AAAA' or 'AAAA 1234'</entry>
+<entry key="CUTTS_SEMESTER_NOT_SELECTED">Select a semester first!</entry>
+<entry key="CUTTS_SUBJECT_NOT_FOUND">Could not locate subject %s :(</entry>
+<entry key="CUTTS_COURSE_NOT_FOUND">Could not locate course %s :(</entry>
+<entry key="CUTTS_QUERY_FAILURE">CUTTS was unable to complete your query :(</entry>
+<entry key="CUTTS_HTTP_ERROR">CUTTS was unable to perform the query.
+Ensure that your connection is active
+and that Carleton Central/Undergrad Calendar is available.</entry>
+</properties>
